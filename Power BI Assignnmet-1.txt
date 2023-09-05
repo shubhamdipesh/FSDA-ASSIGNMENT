@@ -1,0 +1,9 @@
+Ans.1 Business intelligence (BI) is a technology-driven process for analyzing data and delivering actionable information that helps executives, managers and workers make informed business decisions. As part of the BI process, organizations collect data from internal IT systems and external sources, prepare it for analysis, run queries against the data and create data visualizations, BI dashboards and reports to make the analytics results available to business users for operational decision-making and strategic planning.
+
+Ans.2:Power BI can help connect disparate data sets, transform and clean the data into a data model and create charts or graphs to provide visuals of the data
+
+Ans.3 Descriptive analytics is a statistical interpretation used to analyze historical data to identify patterns and relationships.
+
+Ans.4 Predictive analytics is the process of using data to forecast future outcomes.
+
+Ans.5 
